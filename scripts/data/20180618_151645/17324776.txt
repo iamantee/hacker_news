@@ -1,1 +1,0 @@
-{"kids": [17325542, 17327213, 17325611, 17326494, 17327782], "descendants": 16, "url": "https://m.sfgate.com/local/article/is-san-francisco-dangerous-visit-sf-safe-crime-12995294.php#photo-15533767", "title": "'Am I in the bad part of town?'", "by": "sverige", "score": 29, "time": 1529106755, "type": "story", "id": 17324776}

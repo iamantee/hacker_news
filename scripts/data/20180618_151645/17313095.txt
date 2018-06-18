@@ -1,1 +1,0 @@
-{"kids": [17313962, 17313902], "descendants": 5, "url": "https://www.theguardian.com/world/2018/jun/14/canadian-citizen-sues-government-detention", "title": "Canadian citizen held for months after border agents dismiss papers as fake", "by": "camtarn", "score": 23, "time": 1528995270, "type": "story", "id": 17313095}

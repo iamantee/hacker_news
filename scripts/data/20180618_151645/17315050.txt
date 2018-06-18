@@ -1,1 +1,0 @@
-{"kids": [17315492, 17315487], "descendants": 1, "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-bannon-buys-into-bitcoin/", "title": "Bannon buys into Bitcoin", "by": "john58", "score": 9, "time": 1529007935, "type": "story", "id": 17315050}

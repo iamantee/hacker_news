@@ -1,1 +1,0 @@
-{"kids": [17335678, 17335691, 17334277, 17334861, 17334221, 17334280, 17335319, 17334322, 17335453, 17335422], "descendants": 43, "url": "https://www.youtube.com/watch?v=NkgXSkz7Inc", "title": "8K 13.3'' OLED laptop screen [video]", "by": "dmmalam", "score": 36, "time": 1529266324, "type": "story", "id": 17334091}

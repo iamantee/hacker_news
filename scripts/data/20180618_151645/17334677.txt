@@ -1,1 +1,0 @@
-{"kids": [17335636, 17335505, 17335696], "descendants": 23, "url": "http://www.3gpp.org/news-events/3gpp-news/1965-rel-15_news", "title": "5G standard is ready: Rel-15 success spans 3GPP groups", "by": "doener", "score": 28, "time": 1529274175, "type": "story", "id": 17334677}

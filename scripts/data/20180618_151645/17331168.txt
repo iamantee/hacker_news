@@ -1,1 +1,0 @@
-{"kids": [17334986, 17334293], "descendants": 2, "url": "https://www.inf.ethz.ch/personal/wirth/Articles/GoodIdeas_origFig.pdf", "title": "Good Ideas, Through the Looking Glass (2005) [pdf]", "by": "bshanks", "score": 32, "time": 1529217943, "type": "story", "id": 17331168}

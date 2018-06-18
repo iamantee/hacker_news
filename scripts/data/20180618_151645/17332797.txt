@@ -1,1 +1,0 @@
-{"kids": [17333848, 17334386, 17333775, 17333433], "descendants": 12, "url": "https://github.com/kenforthewin/mentat", "title": "Show HN: Mentat \u2013 group chat with tags and pretty good privacy", "by": "kenforthewin", "score": 29, "time": 1529249912, "type": "story", "id": 17332797}

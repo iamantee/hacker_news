@@ -1,1 +1,0 @@
-{"kids": [17331026], "descendants": 1, "url": "https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/", "title": "A machine has figured out Rubik\u2019s Cube all by itself", "by": "nickcw", "score": 8, "time": 1529177775, "type": "story", "id": 17328930}

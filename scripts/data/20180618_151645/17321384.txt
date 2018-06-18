@@ -1,1 +1,0 @@
-{"kids": [17331632, 17328174, 17328671, 17327587], "descendants": 11, "url": "https://objectivevgaesthetics.wordpress.com/2015/08/11/interactivity-the-core-of-video-game-aesthetics/", "title": "Interactivity \u2013 The Core of Video Game Aesthetics (2015)", "by": "Thevet", "score": 34, "time": 1529082073, "type": "story", "id": 17321384}

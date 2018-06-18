@@ -1,1 +1,0 @@
-{"title": "A statistical technique for measuring space creation in professional soccer [pdf]", "url": "http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf", "descendants": 0, "by": "SQL2219", "score": 6, "time": 1529248129, "type": "story", "id": 17332671}

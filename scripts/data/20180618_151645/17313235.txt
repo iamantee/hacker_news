@@ -1,1 +1,0 @@
-{"kids": [17315741, 17315861, 17323347, 17315387], "descendants": 8, "url": "http://jamie-wong.com/post/reverse-engineering-instruments-file-format/", "title": "Reverse Engineering Instruments\u2019 File Format", "by": "phleet", "score": 84, "time": 1528996259, "type": "story", "id": 17313235}

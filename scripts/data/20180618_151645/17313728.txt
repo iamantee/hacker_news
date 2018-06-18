@@ -1,1 +1,0 @@
-{"kids": [17314340, 17314478, 17314192, 17317840, 17313900, 17314893, 17314223], "descendants": 25, "url": "https://medium.com/@syrusakbary/quiver-graphql-on-steroids-13612ea1ea77", "title": "Show HN: Quiver \u2013 GraphQL on Steroids", "by": "syrusakbary", "score": 54, "time": 1528998915, "type": "story", "id": 17313728}

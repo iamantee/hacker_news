@@ -1,1 +1,0 @@
-{"kids": [17334034], "descendants": 5, "url": "https://github.com/RebirthDB", "title": "RebirthDB: community-developed fork of the RethinkDB database", "by": "AlexKaul", "score": 29, "time": 1529233100, "type": "story", "id": 17331831}

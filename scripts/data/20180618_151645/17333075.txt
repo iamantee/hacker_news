@@ -1,1 +1,0 @@
-{"kids": [17334577, 17335779], "descendants": 13, "url": "http://alive.atari.org/alive13/jagcode.php", "title": "Some Words on Programming the Atari Jaguar (2006)", "by": "rocky1138", "score": 55, "time": 1529253488, "type": "story", "id": 17333075}

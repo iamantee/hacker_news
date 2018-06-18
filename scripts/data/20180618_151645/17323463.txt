@@ -1,1 +1,0 @@
-{"kids": [17323669, 17323561], "descendants": 7, "url": "https://www.theverge.com/2018/6/15/17468612/att-time-warner-acquisition-court-decision", "title": "The court\u2019s decision to let AT&T and Time Warner merge is bad", "by": "coloneltcb", "score": 22, "time": 1529095993, "type": "story", "id": 17323463}

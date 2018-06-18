@@ -1,1 +1,0 @@
-{"kids": [17327736, 17327761, 17327745, 17327991], "descendants": 10, "url": "https://gizmodo.com/europes-gdpr-is-killing-email-marketing-to-the-disappo-1826880645", "title": "Europe's GDPR Is Killing Email Marketing, to the Disappointment of No One", "by": "ourmandave", "score": 50, "time": 1529159263, "type": "story", "id": 17327548}

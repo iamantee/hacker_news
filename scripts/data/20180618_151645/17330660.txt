@@ -1,1 +1,0 @@
-{"kids": [17332040, 17330861, 17332316, 17330872], "descendants": 17, "url": "https://www.reddit.com/r/tech/comments/8rmudm/i_worked_at_theranos_and_this_is_a_glimpse_of_my/", "title": "A former Theranos employee's account of life inside the company", "by": "jetrink", "score": 68, "time": 1529204123, "type": "story", "id": 17330660}

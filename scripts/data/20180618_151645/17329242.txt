@@ -1,1 +1,0 @@
-{"kids": [17332578, 17331269, 17331591, 17331050], "descendants": 21, "url": "https://phys.org/news/2018-06-seed-millions.html", "title": "A seed that could bring clean water to millions", "by": "dnetesn", "score": 99, "time": 1529181325, "type": "story", "id": 17329242}

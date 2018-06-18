@@ -1,1 +1,0 @@
-{"kids": [17332346, 17331164, 17335267, 17331390, 17331412], "descendants": 37, "url": "http://mentalfloss.com/article/540277/beale-ciphers-buried-treasure", "title": "200-year-old ciphers may reveal the location of treasure buried in Virginia", "by": "prostoalex", "score": 74, "time": 1529206394, "type": "story", "id": 17330752}

@@ -1,1 +1,0 @@
-{"title": "Show HN: How I found a XSS bug on Amazon.com", "url": "https://www.medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787", "descendants": 0, "by": "JonathanBouman", "score": 5, "time": 1529092591, "type": "story", "id": 17323008}

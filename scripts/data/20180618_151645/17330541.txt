@@ -1,1 +1,0 @@
-{"kids": [17331005, 17330606, 17330632, 17332779, 17330591, 17331055, 17330849, 17330718, 17330743], "descendants": 30, "url": "https://www.nytimes.com/2018/06/15/business/marc-benioff-salesforce-corner-office.html", "title": "Marc Benioff of Salesforce: \u2018Are We Not All Connected?\u2019", "by": "dsr12", "score": 69, "time": 1529200771, "type": "story", "id": 17330541}

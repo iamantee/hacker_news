@@ -1,1 +1,0 @@
-{"kids": [17333711], "descendants": 1, "url": "https://vimeo.com/6615365", "title": "Using a Proof Assistant to Teach Programming Language Foundations (2010) [video]", "by": "rfreytag", "score": 35, "time": 1529031021, "type": "story", "id": 17317174}

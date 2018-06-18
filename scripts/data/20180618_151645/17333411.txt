@@ -1,1 +1,0 @@
-{"title": "The Kubernetes Vertical Pod Autoscaler Through a Java Example", "url": "https://banzaicloud.com/blog/k8s-vertical-pod-autoscaler/", "descendants": 0, "by": "matyix", "score": 8, "time": 1529257930, "type": "story", "id": 17333411}

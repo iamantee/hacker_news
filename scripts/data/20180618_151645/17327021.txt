@@ -1,1 +1,0 @@
-{"kids": [17332200, 17331582], "descendants": 2, "url": "http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html", "title": "Learning Bluetooth Hackery with BLE CTF", "by": "okket", "score": 99, "time": 1529149244, "type": "story", "id": 17327021}

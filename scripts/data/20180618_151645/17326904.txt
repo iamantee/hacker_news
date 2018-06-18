@@ -1,1 +1,0 @@
-{"kids": [17327052, 17327061, 17327053, 17327073, 17327067, 17327486, 17327058], "descendants": 19, "url": "https://lkml.org/lkml/2014/1/21/361", "title": "66-way merge: \u201cChrist, that's not an octopus, that's a Cthulhu merge\u201d", "by": "jjuhl", "score": 39, "time": 1529146413, "type": "story", "id": 17326904}

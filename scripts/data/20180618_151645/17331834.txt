@@ -1,1 +1,0 @@
-{"kids": [17334503, 17333273, 17333254, 17333250, 17333258, 17333379], "descendants": 3, "url": "http://nautil.us/issue/61/coordinates/we-need-to-save-ignorance-from-ai", "title": "In an age of all-knowing algorithms, how do we choose not to know?", "by": "dnetesn", "score": 40, "time": 1529233126, "type": "story", "id": 17331834}

@@ -1,1 +1,0 @@
-{"kids": [17329625, 17329529, 17328983], "descendants": 9, "url": "https://www.reddit.com/r/programming/comments/63hth/ask_reddit_which_oss_codebases_out_there_are_so/c02pxbp/", "title": "Recommended path to read the Lua source code by the author of LuaJIT (2007)", "by": "jxub", "score": 86, "time": 1529171016, "type": "story", "id": 17328429}

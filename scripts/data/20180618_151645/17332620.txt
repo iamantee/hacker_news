@@ -1,1 +1,0 @@
-{"kids": [17336156, 17333562], "descendants": 4, "url": "http://networkcultures.org/geert/2018/06/15/just-out-organization-after-social-media-by-geert-lovink-and-ned-rossiter/", "title": "Organization after Social Media", "by": "glovink", "score": 12, "time": 1529247482, "type": "story", "id": 17332620}

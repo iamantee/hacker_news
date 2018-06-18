@@ -1,1 +1,0 @@
-{"kids": [17336346], "descendants": 1, "url": "https://www.nytimes.com/2018/06/14/science/bacteria-harpoons-dna.html", "title": "Using Harpoon-Like Appendages, Bacteria \u2018Fish\u2019 for New DNA", "by": "dnetesn", "score": 30, "time": 1529233224, "type": "story", "id": 17331839}

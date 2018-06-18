@@ -1,1 +1,0 @@
-{"kids": [17317191, 17317769, 17317152], "descendants": 6, "url": "http://www.businessinsider.com/airbus-a380-qantas-flight-dive-turbulence-caused-by-another-a380-2018-6", "title": "Qantas Airbus A380 'nosedives' after wake turbulence from another A380", "by": "phumbe", "score": 15, "time": 1529026687, "type": "story", "id": 17316851}

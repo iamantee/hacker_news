@@ -1,1 +1,0 @@
-{"kids": [17323857], "descendants": 1, "url": "https://mobile.nytimes.com/2018/06/15/us/harvard-asian-enrollment-applicants.html", "title": "Harvard Rated Asian Applicants Lower on Personality Traits, Lawsuit Says", "by": "shawndumas", "score": 4, "time": 1529098623, "type": "story", "id": 17323789}

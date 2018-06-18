@@ -1,1 +1,0 @@
-{"kids": [17316305, 17316252, 17315649, 17322191, 17317726, 17320042, 17324719], "descendants": 11, "url": "https://technicshistory.wordpress.com/2018/03/31/the-transistor-part-3-endless-reinvention/", "title": "The Transistor, Part 3: Endless Reinvention", "by": "Hooke", "score": 151, "time": 1529007176, "type": "story", "id": 17314949}

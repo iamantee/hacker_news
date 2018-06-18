@@ -1,1 +1,0 @@
-{"kids": [17322798, 17323198, 17322982, 17324620, 17322905], "descendants": 18, "url": "https://www.psychologytoday.com/us/articles/201205/the-mysterious-case-the-vanishing-genius", "title": "The Mysterious Case of the Vanishing Genius (2012)", "by": "wallflower", "score": 92, "time": 1529089637, "type": "story", "id": 17322595}

@@ -1,1 +1,0 @@
-{"kids": [17326299, 17325547], "descendants": 2, "url": "http://www.anandtech.com/show/12989/mips-acquired-by-wave-computing", "title": "MIPS Acquired by AI Hardware Vendor Wave Computing", "by": "velmu", "score": 5, "time": 1529105248, "type": "story", "id": 17324633}

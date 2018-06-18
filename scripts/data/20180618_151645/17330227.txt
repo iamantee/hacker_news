@@ -1,1 +1,0 @@
-{"kids": [17330452, 17334737, 17331781, 17330859], "descendants": 4, "url": "https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/", "title": "Floating-Point Determinism (2013)", "by": "pietroglyph", "score": 56, "time": 1529194562, "type": "story", "id": 17330227}

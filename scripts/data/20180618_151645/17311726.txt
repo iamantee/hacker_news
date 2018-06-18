@@ -1,1 +1,0 @@
-{"title": "Citi Wants Analysts to Add Python to List of Languages on Resume", "url": "https://www.bloomberg.com/news/articles/2018-06-14/citi-wants-analysts-to-add-python-to-list-of-languages-on-resume", "descendants": 0, "by": "whatok", "score": 4, "time": 1528985053, "type": "story", "id": 17311726}

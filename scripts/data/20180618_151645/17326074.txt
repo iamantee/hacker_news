@@ -1,1 +1,0 @@
-{"kids": [17327340, 17327245], "descendants": 2, "url": "https://indianapublicmedia.org/amomentofscience/collision-avoidance-star-wars-locusts/", "title": "Designing a Collision Avoidance System by Watching Locusts Watch Star Wars", "by": "vezycash", "score": 5, "time": 1529128096, "type": "story", "id": 17326074}

@@ -1,1 +1,0 @@
-{"kids": [17328325, 17328435, 17336292, 17328573, 17328005, 17328661, 17329290, 17329240, 17328349, 17328700], "descendants": 107, "url": "https://www.cato.org/blog/150-year-wait-indian-immigrants-advanced-degrees", "title": "150-Year Green Card Wait for Indian Immigrants With Advanced Degrees", "by": "varunsaini", "score": 90, "time": 1529165418, "type": "story", "id": 17327950}

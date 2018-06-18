@@ -1,1 +1,0 @@
-{"kids": [17317529, 17318508, 17317579, 17321827, 17317320, 17317659, 17317317], "descendants": 30, "url": "https://cloudplatform.googleblog.com/2018/06/Behind-the-scenes-with-the-Dragon-Ball-Legends-GCP-backend.html", "title": "Behind the Scenes with the Dragon Ball Legends GCP Back End", "by": "luord", "score": 117, "time": 1529029766, "type": "story", "id": 17317093}

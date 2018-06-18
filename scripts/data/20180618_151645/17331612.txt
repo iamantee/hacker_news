@@ -1,1 +1,0 @@
-{"kids": [17331615, 17332882], "descendants": 6, "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3175328", "title": "Go West Young Firm: The Value of Entrepreneurial Migration for Startups [pdf]", "by": "mcenedella", "score": 27, "time": 1529228212, "type": "story", "id": 17331612}

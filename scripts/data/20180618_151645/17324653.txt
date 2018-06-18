@@ -1,1 +1,0 @@
-{"kids": [17325973, 17327189, 17325091, 17326712, 17324845, 17325153], "descendants": 46, "url": "https://www.rbth.com/history/328538-stalin-and-gelya-markizova", "title": "The dark story behind Stalin\u2019s popular photo with a Soviet girl", "by": "ericdanielski", "score": 42, "time": 1529105397, "type": "story", "id": 17324653}

@@ -1,1 +1,0 @@
-{"kids": [17322289, 17319245, 17319374, 17320611, 17326326, 17319280, 17319324, 17320344], "descendants": 54, "url": "http://retrobsd.org/", "title": "RetroBSD: Unix for microcontrollers", "by": "fanf2", "score": 261, "time": 1529062645, "type": "story", "id": 17318998}

@@ -1,1 +1,0 @@
-{"kids": [17332556, 17332532, 17332640, 17332549, 17332576, 17332525, 17332706, 17332534, 17332581], "descendants": 44, "url": "http://pwnaccelerator.github.io/2018/webusb-yubico-disclosure.html", "title": "Vendors, Disclosure, and a bit of WebUSB Madness", "by": "jwildeboer", "score": 162, "time": 1529243202, "type": "story", "id": 17332340}

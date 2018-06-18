@@ -1,1 +1,0 @@
-{"kids": [17333931], "descendants": 2, "url": "https://www.theguardian.com/news/2018/jun/15/how-to-spot-a-perfect-fake-the-worlds-top-art-forgery-detective", "title": "Sotheby\u2019s top art forgery detective", "by": "lnguyen", "score": 40, "time": 1529124461, "type": "story", "id": 17325906}

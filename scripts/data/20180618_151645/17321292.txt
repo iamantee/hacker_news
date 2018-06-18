@@ -1,1 +1,0 @@
-{"title": "Amazon, Microsoft, Uber paying big money to kill a California privacy initiative", "url": "https://www.theverge.com/2018/6/15/17468292/amazon-microsoft-uber-california-consumer-privacy-act", "descendants": 0, "by": "petethomas", "score": 7, "time": 1529081497, "type": "story", "id": 17321292}

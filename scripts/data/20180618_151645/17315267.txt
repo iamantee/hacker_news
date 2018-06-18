@@ -1,1 +1,0 @@
-{"kids": [17316256, 17316725, 17317150, 17315842, 17315574, 17317089], "descendants": 19, "url": "https://ai.google/research/pubs/pub45805", "title": "Ubiq: A Scalable and Fault-Tolerant Log Processing Infrastructure (2016)", "by": "SriniK", "score": 82, "time": 1529009516, "type": "story", "id": 17315267}

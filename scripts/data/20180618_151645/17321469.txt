@@ -1,1 +1,0 @@
-{"kids": [17322571, 17323054, 17322649, 17323534, 17324058, 17323491, 17323420, 17324050, 17322723, 17322518], "descendants": 55, "url": "https://9to5mac.com/2018/06/15/apple-maps-down/", "title": "Apple Maps has been down for hours, users unable to search for places/directions", "by": "el_duderino", "score": 61, "time": 1529082640, "type": "story", "id": 17321469}

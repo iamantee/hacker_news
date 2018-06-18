@@ -1,1 +1,0 @@
-{"kids": [17325031], "descendants": 1, "title": "Ask HN: What are some good actor-model programming languages, besides Pony?", "by": "crypto-jeronimo", "score": 5, "time": 1529103347, "type": "story", "id": 17324414}

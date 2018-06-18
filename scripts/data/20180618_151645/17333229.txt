@@ -1,1 +1,0 @@
-{"kids": [17333444, 17335792, 17334800, 17333944, 17333650], "descendants": 26, "url": "https://www.atlasobscura.com/articles/punkah-project-fans-antebellum-south", "title": "How Ceiling Fans Allowed Slaves to Eavesdrop on Plantation Owners", "by": "samclemens", "score": 99, "time": 1529255578, "type": "story", "id": 17333229}

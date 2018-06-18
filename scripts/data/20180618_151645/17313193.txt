@@ -1,1 +1,0 @@
-{"kids": [17317261, 17320335, 17325617, 17328492, 17320212], "descendants": 10, "url": "https://getstream.io/blog/fixing-the-billion-dollar-mistake-in-go-by-borrowing-from-rust/", "title": "Go Nil Pointers and Rust", "by": "tschellenbach", "score": 40, "time": 1528995959, "type": "story", "id": 17313193}

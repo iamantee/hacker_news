@@ -1,1 +1,0 @@
-{"kids": [17317528], "descendants": 1, "url": "https://eprint.iacr.org/2018/593.pdf", "title": "Ramanujan graphs in cryptography [pdf]", "by": "aburan28", "score": 26, "time": 1529022138, "type": "story", "id": 17316494}

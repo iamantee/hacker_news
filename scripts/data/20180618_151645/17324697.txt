@@ -1,1 +1,0 @@
-{"kids": [17327027, 17325852, 17328189, 17328337, 17327514, 17324903, 17325745], "descendants": 36, "url": "http://anishgodha.com/2018/06/15/guide-to-angel-investing/", "title": "Guide to Angel Investing", "by": "anishgodha", "score": 102, "time": 1529105902, "type": "story", "id": 17324697}

@@ -1,1 +1,0 @@
-{"kids": [17336255, 17336050, 17335589, 17336160], "descendants": 7, "text": "if not, why? how do you validate your achievements?", "title": "Ask HN: Do you consider yourself to be a good programmer?", "by": "type0", "score": 9, "time": 1529273593, "type": "story", "id": 17334613}

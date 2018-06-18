@@ -1,1 +1,0 @@
-{"title": "Kaspersky Halts Europol and NoMoreRansom Project Coop After EU Parliament Vote", "url": "https://www.bleepingcomputer.com/news/government/kaspersky-halts-europol-and-nomoreransom-project-coop-after-eu-parliament-vote/", "descendants": 0, "by": "vezycash", "score": 5, "time": 1529214698, "type": "story", "id": 17331069}

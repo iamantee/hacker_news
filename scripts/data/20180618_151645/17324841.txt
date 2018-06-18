@@ -1,1 +1,0 @@
-{"kids": [17325277, 17325726, 17325656, 17325184, 17326915, 17325647, 17325328, 17328265, 17325680, 17325281, 17327281, 17325623, 17325849], "descendants": 82, "url": "https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/", "title": "Yam, cultivate and cook", "by": "nikolay", "score": 288, "time": 1529107590, "type": "story", "id": 17324841}

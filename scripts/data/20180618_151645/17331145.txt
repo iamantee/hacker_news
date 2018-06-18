@@ -1,1 +1,0 @@
-{"kids": [17331647, 17331491, 17331610, 17331435, 17331508, 17332013, 17331405], "descendants": 18, "url": "https://www.theguardian.com/technology/2018/jun/17/tesla-fire-video-mary-mccormack-california", "title": "Tesla goes up in flames in video captured by actor Mary McCormack", "by": "seanhunter", "score": 23, "time": 1529217435, "type": "story", "id": 17331145}

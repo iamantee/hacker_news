@@ -1,1 +1,0 @@
-{"title": "Python Inner Functions", "url": "https://realpython.com/inner-functions-what-are-they-good-for/", "descendants": 0, "by": "metmirr", "score": 7, "time": 1529172583, "type": "story", "id": 17328571}

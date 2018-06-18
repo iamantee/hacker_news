@@ -1,1 +1,0 @@
-{"kids": [17332214], "descendants": 1, "url": "https://en.wikipedia.org/wiki/Help:Using_Wikipedia_for_mathematics_self-study", "title": "Using Wikipedia for Mathematics Self-Study", "by": "vinchuco", "score": 9, "time": 1529239750, "type": "story", "id": 17332132}

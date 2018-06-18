@@ -1,1 +1,0 @@
-{"kids": [17334288], "descendants": 0, "url": "https://uridiumauthor.blogspot.com/2018/06/memory-management.html", "title": "Memory Management \u2013 Changes for the programmer over the years", "by": "ingve", "score": 37, "time": 1529131631, "type": "story", "id": 17326254}
