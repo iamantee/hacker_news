@@ -1,0 +1,1 @@
+{"kids": [17329980, 17328073], "descendants": 3, "text": "hndigest.com is nice, but I would like to get an e-mail only once a month with the best HN threads", "title": "Ask HN: Does a \u201cHN Monthly Digest\u201d Service Exist?", "by": "NuDinNou", "score": 5, "time": 1529164713, "type": "story", "id": 17327899}

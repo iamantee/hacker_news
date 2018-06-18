@@ -1,0 +1,1 @@
+{"title": "Alternatives to sum types in Go", "url": "https://making.pusher.com/alternatives-to-sum-types-in-go/", "descendants": 0, "by": "eterps", "score": 3, "time": 1529142590, "type": "story", "id": 17326765}

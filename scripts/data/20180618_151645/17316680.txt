@@ -1,0 +1,1 @@
+{"kids": [17316857, 17316888, 17325944, 17316771, 17325282, 17316873], "descendants": 11, "url": "https://www.nytimes.com/2018/06/14/books/review/benjamin-carter-hett-death-of-democracy.html", "title": "How did the Nazis gain power in Germany?", "by": "josephby", "score": 34, "time": 1529024316, "type": "story", "id": 17316680}

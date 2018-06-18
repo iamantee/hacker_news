@@ -1,0 +1,1 @@
+{"kids": [17317418, 17317408, 17317327, 17317428, 17317433, 17317491, 17317287, 17317586, 17317439, 17317315, 17317447, 17317147, 17317991], "descendants": 25, "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions", "title": "List of common misconceptions", "by": "thecosas", "score": 91, "time": 1529010989, "type": "story", "id": 17315447}

@@ -1,0 +1,1 @@
+{"kids": [17335584], "descendants": 2, "url": "https://techcrunch.com/2017/09/13/how-pro-rata-works-in-venture-capital-deals/", "title": "How pro rata works in venture capital deals (2017)", "by": "tosh", "score": 39, "time": 1529251099, "type": "story", "id": 17332903}

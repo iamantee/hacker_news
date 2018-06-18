@@ -1,0 +1,1 @@
+{"kids": [17321924, 17324721, 17322043, 17321540, 17327918, 17332419, 17322009, 17324823, 17323157, 17321915, 17321779], "descendants": 45, "url": "https://phys.org/news/2018-06-periodic-table.html", "title": "New form of matter may lie just beyond the periodic table", "by": "valiant-comma", "score": 105, "time": 1529081702, "type": "story", "id": 17321322}

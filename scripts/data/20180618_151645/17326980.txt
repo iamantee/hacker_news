@@ -1,0 +1,1 @@
+{"kids": [17327092, 17327105, 17327568, 17327227, 17329604], "descendants": 4, "url": "https://arstechnica.com/gaming/2018/06/george-lucas-reveals-his-plan-for-star-wars-7-through-9-and-it-was-awful/", "title": "George Lucas reveals his plan for Star Wars 7 through 9\u2013and it was awful", "by": "BerislavLopac", "score": 13, "time": 1529148186, "type": "story", "id": 17326980}

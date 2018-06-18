@@ -1,0 +1,1 @@
+{"kids": [17328277, 17328320, 17328253, 17328355], "descendants": 25, "url": "http://www.vulture.com/2018/06/the-onion-declares-war-on-mark-zuckerberg-and-facebook.html", "title": "The Onion Declares War on Mark Zuckerberg and Facebook", "by": "john58", "score": 48, "time": 1529164536, "type": "story", "id": 17327884}

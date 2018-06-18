@@ -1,0 +1,1 @@
+{"kids": [17327597, 17328808], "descendants": 5, "url": "http://theappendix.net/issues/2013/10/indelible-ink-the-deep-history-of-tattoo-removal", "title": "Indelible Ink: The Deep History of Tattoo Removal (2013)", "by": "benbreen", "score": 12, "time": 1529123819, "type": "story", "id": 17325869}

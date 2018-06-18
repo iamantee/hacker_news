@@ -1,0 +1,1 @@
+{"kids": [17332430, 17332508, 17332309, 17332870, 17332221, 17332366, 17334092, 17332772, 17332237], "descendants": 18, "url": "https://eng.uber.com/rethinking-gps/", "title": "Rethinking GPS: Engineering Next-Gen Location at Uber", "by": "mpweiher", "score": 82, "time": 1529233245, "type": "story", "id": 17331841}

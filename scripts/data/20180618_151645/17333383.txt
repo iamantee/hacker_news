@@ -1,0 +1,1 @@
+{"kids": [17335249, 17333408, 17334585, 17334639, 17334665], "descendants": 11, "text": "I am working with some clients here in Seattle.  I taught myself django + Angular + Linux&#x2F;aws.", "title": "How much should I bill for webdev?", "by": "rayj", "score": 10, "time": 1529257606, "type": "story", "id": 17333383}

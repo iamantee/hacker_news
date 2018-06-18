@@ -1,0 +1,1 @@
+{"kids": [17312637, 17312462, 17314069, 17312843, 17312291, 17315807, 17314607, 17312531, 17312639], "descendants": 62, "url": "https://www.cnet.com/news/ai-chip-startup-wave-buys-silicon-valley-old-timer-mips/", "title": "AI chip startup Wave to buy Silicon Valley old-timer MIPS", "by": "mindcrime", "score": 94, "time": 1528988698, "type": "story", "id": 17312244}

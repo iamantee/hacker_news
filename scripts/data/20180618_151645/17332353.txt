@@ -1,0 +1,1 @@
+{"kids": [17333881, 17333446, 17334061, 17335083], "descendants": 11, "url": "https://aeon.co/essays/what-caused-the-black-death-and-could-it-strike-again", "title": "What caused the Black Death and could it strike again? (2016)", "by": "YeGoblynQueenne", "score": 51, "time": 1529243426, "type": "story", "id": 17332353}

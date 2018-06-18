@@ -1,0 +1,1 @@
+{"title": "C++Now 2018: Eberhard Gr\u00e4ther \u201cThe Untapped Potential of Software Visualization\u201d", "url": "https://www.youtube.com/watch?v=fnIFVYFspfc", "descendants": 0, "by": "egraether", "score": 6, "time": 1529261065, "type": "story", "id": 17333651}

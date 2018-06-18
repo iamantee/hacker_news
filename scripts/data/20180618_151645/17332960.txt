@@ -1,0 +1,1 @@
+{"kids": [17333616, 17333378, 17333487, 17333415], "descendants": 4, "url": "https://sciencebulletin.org/archives/25370.html", "title": "Study finds less corruption in countries where more women are in government", "by": "oblib", "score": 9, "time": 1529251871, "type": "story", "id": 17332960}

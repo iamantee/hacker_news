@@ -1,0 +1,1 @@
+{"kids": [17322207, 17322236, 17322137], "descendants": 3, "url": "https://motherboard.vice.com/en_us/article/pavwj8/armed-robbery-domain-website-gunpoint-doitforstate", "title": "Guy Who Robbed Someone at Gunpoint for a Domain Name Is Getting 20 Years in Jail", "by": "dsr12", "score": 22, "time": 1529085720, "type": "story", "id": 17322001}

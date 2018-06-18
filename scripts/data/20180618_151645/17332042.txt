@@ -1,0 +1,1 @@
+{"kids": [17332487, 17332667, 17332547, 17332483, 17332923, 17333222, 17332479, 17333690, 17332968], "descendants": 26, "url": "https://mydatarequest.com/", "title": "My Data Request: Request your data from over 100 companies", "by": "mikece", "score": 96, "time": 1529237603, "type": "story", "id": 17332042}

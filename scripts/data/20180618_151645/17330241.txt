@@ -1,0 +1,1 @@
+{"title": "Show HN: End procrastination now.A menubar app to motivate you to get stuff done", "url": "http://davidtsong.com/lifeglass.html", "descendants": 0, "by": "davidtsong", "score": 5, "time": 1529194866, "type": "story", "id": 17330241}

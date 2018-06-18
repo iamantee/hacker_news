@@ -1,0 +1,1 @@
+{"title": "Soda Player is accessing private files and mail", "url": "https://old.reddit.com/r/Piracy/comments/8q2pg3/anyone_who_can_explain_why_soda_player_is/", "descendants": 0, "by": "elie222", "score": 6, "time": 1529261462, "type": "story", "id": 17333685}

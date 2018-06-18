@@ -1,0 +1,1 @@
+{"kids": [17335135, 17334594, 17334944, 17336086, 17334249, 17334342], "descendants": 11, "url": "https://github.com/kyle8998/Vynchronize", "title": "Vynchronize \u2013 A fun realtime video sync platform for friends", "by": "kyle8998", "score": 59, "time": 1529266857, "type": "story", "id": 17334141}

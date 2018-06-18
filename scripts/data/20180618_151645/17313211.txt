@@ -1,0 +1,1 @@
+{"kids": [17313824, 17314075, 17318559, 17313735, 17313821, 17313819, 17313840, 17314660, 17313832, 17313799, 17313427], "descendants": 25, "url": "https://arxiv.org/abs/1806.04793", "title": "A Connectome-Based Convolutional Network Model of the Drosophila Visual System", "by": "beefman", "score": 86, "time": 1528996094, "type": "story", "id": 17313211}

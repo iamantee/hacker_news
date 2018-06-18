@@ -1,0 +1,1 @@
+{"kids": [17329470, 17328924, 17331015, 17329966, 17330339, 17329522], "descendants": 25, "url": "https://blog.teemya.com/2018/06/14/windows-desktop-applications-automation-using-autoit/", "title": "Windows Desktop Application Automation Using AutoIt", "by": "r0ash", "score": 47, "time": 1529133240, "type": "story", "id": 17326338}

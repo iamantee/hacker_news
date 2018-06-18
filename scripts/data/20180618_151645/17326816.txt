@@ -1,0 +1,1 @@
+{"kids": [17331160, 17332545, 17330697, 17332456, 17331905, 17328681], "descendants": 13, "url": "http://michaelfeathers.typepad.com/michael_feathers_blog/2011/05/the-carrying-cost-of-code-taking-lean-seriously.html", "title": "The Carrying-Cost of Code: Taking Lean Seriously (2011)", "by": "mpweiher", "score": 59, "time": 1529143749, "type": "story", "id": 17326816}

@@ -1,0 +1,1 @@
+{"kids": [17322431, 17322206, 17322507, 17324760, 17327655, 17323702, 17322080], "descendants": 14, "url": "https://tedium.co/2018/06/15/codemasters-history-nes-nintendo/", "title": "Codemasters History: The NES\u2019 Best Unlicensed Developer", "by": "shortformblog", "score": 155, "time": 1529081123, "type": "story", "id": 17321240}

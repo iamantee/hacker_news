@@ -1,0 +1,1 @@
+{"kids": [17317096, 17317553, 17316980], "descendants": 11, "url": "https://www.washingtonpost.com/local/education/a-shake-up-in-elite-admissions-u-chicago-drops-satact-testing-requirement/2018/06/13/442a5e14-6efd-11e8-bd50-b80389a4e569_story.html", "title": "Uchicago drops SAT/ACT requirement", "by": "harshgupta", "score": 15, "time": 1529018182, "type": "story", "id": 17316209}

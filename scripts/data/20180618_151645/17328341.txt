@@ -1,0 +1,1 @@
+{"kids": [17328550, 17328540, 17331277, 17328414, 17328535, 17331763, 17328403, 17328469, 17328436, 17328393], "descendants": 38, "url": "https://www.52-insights.com/freeman-dyson-i-kept-quiet-for-30-years-so-maybe-its-time-to-speak-interview-science/", "title": "Interview with Freeman Dyson", "by": "dedalus", "score": 85, "time": 1529170222, "type": "story", "id": 17328341}

@@ -1,0 +1,1 @@
+{"kids": [17333313], "descendants": 1, "url": "https://twitter.com/realDonaldTrump/status/1008340100877570048", "title": "Washington Post employees want to go on strike because Bezos isn\u2019t paying enough", "by": "dsr12", "score": 8, "time": 1529246615, "type": "story", "id": 17332552}

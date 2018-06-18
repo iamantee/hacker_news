@@ -1,0 +1,1 @@
+{"kids": [17336332, 17329153, 17327526, 17331299, 17332771, 17325660, 17330088, 17334970, 17325530], "descendants": 10, "title": "Ask HN: What's the worst kind of technical debt?", "by": "piinbinary", "score": 8, "time": 1529115421, "type": "story", "id": 17325421}

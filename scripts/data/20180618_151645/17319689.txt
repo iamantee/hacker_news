@@ -1,0 +1,1 @@
+{"kids": [17319970, 17320506, 17320200, 17320003, 17321440, 17322286, 17320288, 17320252, 17321172, 17323838, 17321269, 17320095], "descendants": 68, "url": "https://crystal-lang.org/2018/06/15/crystal-0.25.0-released.html", "title": "Crystal 0.25", "by": "galfarragem", "score": 206, "time": 1529070194, "type": "story", "id": 17319689}

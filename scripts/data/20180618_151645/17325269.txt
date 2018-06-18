@@ -1,0 +1,1 @@
+{"kids": [17327754, 17326540, 17329262], "descendants": 6, "url": "https://www.youtube.com/watch?v=mRKjWrNJ8DI", "title": "Thanks to TruffleRuby, Ruby is about to become an order of magnitude faster", "by": "stanislavb", "score": 24, "time": 1529113073, "type": "story", "id": 17325269}
