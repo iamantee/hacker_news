@@ -1,0 +1,1 @@
+{"kids": [17329925, 17328815, 17329772, 17329124, 17329850, 17329586], "descendants": 41, "url": "http://www.thepythoncorner.com/2018/05/lambdas-and-functions-in-python.html", "title": "Lambdas and Functions in Python", "by": "mastro35", "score": 58, "time": 1529147350, "type": "story", "id": 17326946}

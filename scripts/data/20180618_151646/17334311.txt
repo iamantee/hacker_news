@@ -1,0 +1,1 @@
+{"kids": [17336183], "descendants": 1, "url": "https://techcrunch.com/2018/06/17/after-twenty-years-of-salesforce-what-marc-benioff-got-right-and-wrong-about-the-cloud/", "title": "After twenty years of Salesforce, what Marc Benioff got right wrong about cloud", "by": "chuy08", "score": 9, "time": 1529269364, "type": "story", "id": 17334311}

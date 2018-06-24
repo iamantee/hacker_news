@@ -1,0 +1,1 @@
+{"kids": [17331202, 17331155, 17331340, 17331559, 17331361, 17331106, 17331185, 17331950, 17331998, 17331253], "descendants": 55, "url": "http://www.businessinsider.com/cryptokitties-blockchain-beanie-babies-transactions-plummet-2018-6?op=1", "title": "CryptoKitties sales plummet in popularity", "by": "prostoalex", "score": 73, "time": 1529205602, "type": "story", "id": 17330723}

@@ -1,0 +1,1 @@
+{"kids": [17326662, 17326667, 17326715, 17325766, 17327282], "descendants": 12, "url": "https://www.scala-lang.org/blog/2018/06/15/bsp.html", "title": "Announcing the Build Server Protocol v1.0.0", "by": "aphexairlines", "score": 52, "time": 1529095486, "type": "story", "id": 17323401}

@@ -1,0 +1,1 @@
+{"kids": [17314703, 17314168, 17314197, 17312151], "descendants": 12, "url": "https://qz.com/1304987/amazon-has-already-begun-automating-its-white-collar-jobs/", "title": "Amazon has already begun automating its white-collar jobs", "by": "sikim", "score": 27, "time": 1528986796, "type": "story", "id": 17311970}

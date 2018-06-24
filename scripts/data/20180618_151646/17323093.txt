@@ -1,0 +1,1 @@
+{"kids": [17324296, 17325862, 17324774, 17325194, 17324083], "descendants": 9, "url": "https://beta.observablehq.com/@mbostock/methods-of-comparison-compared", "title": "Methods of Comparison, Compared: A Visual Guide to Comparing Change", "by": "jashkenas", "score": 110, "time": 1529093168, "type": "story", "id": 17323093}

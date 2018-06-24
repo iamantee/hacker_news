@@ -1,0 +1,1 @@
+{"kids": [17324945, 17325042, 17326759, 17326530], "descendants": 8, "url": "http://learnyouanagda.liamoc.net/pages/introduction.html", "title": "Learn you an Agda (2011)", "by": "jxub", "score": 80, "time": 1529103800, "type": "story", "id": 17324469}

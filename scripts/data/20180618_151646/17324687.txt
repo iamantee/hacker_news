@@ -1,0 +1,1 @@
+{"kids": [17325201], "descendants": 2, "url": "https://newatlas.com/nuclear-uranium-seawater-fibers/55033/", "title": "Cost-effective method of extracting uranium from seawater", "by": "mkempe", "score": 7, "time": 1529105812, "type": "story", "id": 17324687}

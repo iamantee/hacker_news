@@ -78,8 +78,7 @@ class API_Utils(object):
             try:
                 os.makedirs(os.path.dirname(file_path))
             except OSError as ex:
-                if ex.errno != errno.EEXIST:
-                    raise
+                raise ex
 
         if(self._api_response):
             with open(file_path, 'w') as data_file:

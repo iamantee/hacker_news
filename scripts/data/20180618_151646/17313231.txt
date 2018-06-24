@@ -1,0 +1,1 @@
+{"kids": [17318258], "descendants": 1, "url": "https://medium.com/@adam.toscher/creating-signed-and-customized-backdoored-macos-applications-by-abusing-apple-developer-tools-b4cbf1a98187", "title": "Creating signed and customized backdoored macOS apps by abusing Apple Dev tools", "by": "danso", "score": 6, "time": 1528996222, "type": "story", "id": 17313231}

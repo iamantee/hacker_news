@@ -1,0 +1,1 @@
+{"kids": [17314634, 17314620], "descendants": 17, "url": "https://fivethirtyeight.com/features/nuclear-power-wont-survive-without-a-government-handout/", "title": "Nuclear Power Won\u2019t Survive Without A Government Handout", "by": "onychomys", "score": 21, "time": 1529001009, "type": "story", "id": 17314111}

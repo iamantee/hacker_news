@@ -1,0 +1,1 @@
+{"kids": [17336394, 17335783, 17335800, 17336235, 17336059, 17336173], "descendants": 16, "url": "https://www.nytimes.com/2018/06/17/us/politics/cyber-command-trump.html", "title": "Pentagon Puts Cyberwarriors on the Offensive", "by": "SeanBoocock", "score": 39, "time": 1529282922, "type": "story", "id": 17335211}

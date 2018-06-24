@@ -1,0 +1,1 @@
+{"kids": [17332344, 17332429, 17333037], "descendants": 6, "url": "https://tht.help", "title": "THT v0.2.0 \u2013 a language that compiles to PHP", "by": "jlesk", "score": 17, "time": 1529188572, "type": "story", "id": 17329856}

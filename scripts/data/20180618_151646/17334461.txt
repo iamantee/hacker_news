@@ -1,0 +1,1 @@
+{"kids": [17334758], "descendants": 1, "url": "https://twitter.com/ianmiell/status/1007905543300747264", "title": "Is there a tool that summarises 'what a program did' in linux?", "by": "jotto", "score": 4, "time": 1529271242, "type": "story", "id": 17334461}

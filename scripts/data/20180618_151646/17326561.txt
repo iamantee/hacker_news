@@ -1,0 +1,1 @@
+{"kids": [17330775, 17329887, 17332364, 17330305, 17330588, 17331116, 17328901, 17328875], "descendants": 23, "url": "https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/", "title": "New deep learning technique solves Rubik's Cube without assistance", "by": "rbanffy", "score": 105, "time": 1529137328, "type": "story", "id": 17326561}

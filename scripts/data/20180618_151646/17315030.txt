@@ -1,0 +1,1 @@
+{"kids": [17315751, 17317911], "descendants": 11, "url": "https://www.fastcompany.com/40585221/piercing-sound-can-be-excessive-police-force-federal-court-rules", "title": "Sound can be excessive police force, federal court rules", "by": "johnshades", "score": 14, "time": 1529007813, "type": "story", "id": 17315030}

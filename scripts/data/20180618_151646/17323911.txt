@@ -1,0 +1,1 @@
+{"kids": [17324979, 17324759, 17328260, 17327261, 17325049], "descendants": 10, "url": "http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/", "title": "Tools for Exploring .NET Internals", "by": "matthewwarren", "score": 175, "time": 1529099405, "type": "story", "id": 17323911}

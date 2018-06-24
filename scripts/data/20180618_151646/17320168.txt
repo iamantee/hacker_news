@@ -1,0 +1,1 @@
+{"kids": [17320786, 17320667, 17320688, 17320352, 17320564, 17320618, 17320326, 17320365], "descendants": 169, "url": "https://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html", "title": "The Divorce Surge Is Over, but the Myth Lives On (2014)", "by": "philangist", "score": 74, "time": 1529074395, "type": "story", "id": 17320168}

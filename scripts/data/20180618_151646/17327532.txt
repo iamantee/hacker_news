@@ -1,0 +1,1 @@
+{"kids": [17329169], "descendants": 2, "url": "https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5", "title": "Spice up your JavaScript with currying", "by": "3v0k4", "score": 6, "time": 1529159108, "type": "story", "id": 17327532}

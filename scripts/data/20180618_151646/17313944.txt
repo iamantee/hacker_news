@@ -1,0 +1,1 @@
+{"kids": [17315536], "descendants": 0, "url": "https://uk.finance.yahoo.com/news/sec-announces-ether-not-security-162658147.html?guccounter=1", "title": "SEC announces cryptocurrency ether is not a security", "by": "iMuzz", "score": 17, "time": 1529000015, "type": "story", "id": 17313944}

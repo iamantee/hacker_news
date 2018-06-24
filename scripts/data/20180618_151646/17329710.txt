@@ -1,0 +1,1 @@
+{"kids": [17331345, 17330516], "descendants": 3, "url": "https://dev.to/indy_singh_uk/strings-are-evil-9f9", "title": "Strings Are Evil", "by": "rbanffy", "score": 10, "time": 1529186554, "type": "story", "id": 17329710}

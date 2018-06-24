@@ -1,0 +1,1 @@
+{"kids": [17335866, 17335993], "descendants": 11, "url": "https://www.rt.com/usa/430014-tesla-car-fire-california/", "title": "Tesla car catches fire in California traffic", "by": "omeid2", "score": 7, "time": 1529290015, "type": "story", "id": 17335675}

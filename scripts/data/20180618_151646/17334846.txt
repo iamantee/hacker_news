@@ -1,0 +1,1 @@
+{"title": "Write once, never write again", "url": "https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8", "descendants": 0, "by": "nikivi", "score": 6, "time": 1529276145, "type": "story", "id": 17334846}

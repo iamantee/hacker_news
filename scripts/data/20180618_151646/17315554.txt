@@ -1,0 +1,1 @@
+{"kids": [17316178, 17316133, 17315869, 17315642, 17315692, 17315858, 17316572, 17315654], "descendants": 23, "title": "Ask HN: Next programming language to learn: Nim vs. D?", "by": "crypto-jeronimo", "score": 20, "time": 1529011828, "type": "story", "id": 17315554}

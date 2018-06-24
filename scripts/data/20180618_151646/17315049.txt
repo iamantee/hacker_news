@@ -1,0 +1,1 @@
+{"title": "Yubico takes credit for vulnerability research that wasn't theirs", "url": "https://twitter.com/antisnatchor/status/1007150498510753792", "descendants": 0, "by": "jacquesm", "score": 6, "time": 1529007929, "type": "story", "id": 17315049}

@@ -1,0 +1,1 @@
+{"kids": [17328988], "descendants": 1, "url": "https://riter.co/blog/startups-3-ways-of-development", "title": "Startups: 3 Ways of Development", "by": "katelynsk", "score": 27, "time": 1529152273, "type": "story", "id": 17327148}

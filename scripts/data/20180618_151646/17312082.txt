@@ -1,0 +1,1 @@
+{"kids": [17312632, 17313882, 17312684, 17314438, 17314280, 17316306, 17313976, 17312583], "descendants": 65, "url": "https://logicmag.io/04-the-scale-is-just-unfathomable/", "title": "Content moderation became an industrial process", "by": "imartin2k", "score": 63, "time": 1528987412, "type": "story", "id": 17312082}

@@ -1,0 +1,1 @@
+{"kids": [17323845, 17326450], "descendants": 8, "url": "https://mathiasbynens.be/notes/shapes-ics", "title": "JavaScript Engine Fundamentals: Shapes and Inline Caches", "by": "mariuz", "score": 83, "time": 1529073574, "type": "story", "id": 17320066}

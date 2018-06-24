@@ -1,0 +1,1 @@
+{"kids": [17334821], "descendants": 1, "url": "http://www.cs.cmu.edu/~tom7/mario/", "title": "A general technique for automating NES games (2013)", "by": "vinchuco", "score": 35, "time": 1529250689, "type": "story", "id": 17332873}

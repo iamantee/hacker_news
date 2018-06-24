@@ -1,0 +1,1 @@
+{"kids": [17315507, 17315978, 17316766, 17318063], "descendants": 7, "url": "https://mixpanel.com/blog/2018/06/14/how-we-use-mixpanel-to-put-a-price-on-our-data-usage/", "title": "How we track customer costs in Mixpanel", "by": "tdumitrescu", "score": 67, "time": 1529007919, "type": "story", "id": 17315045}

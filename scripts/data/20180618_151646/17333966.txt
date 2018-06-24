@@ -1,0 +1,1 @@
+{"kids": [17334376, 17335810, 17335100, 17334852, 17336060, 17335797, 17334569, 17334649, 17334960], "descendants": 46, "url": "https://www.swiftbysundell.com/posts/the-power-of-result-types-in-swift", "title": "The power of Result types in Swift", "by": "ingve", "score": 61, "time": 1529264936, "type": "story", "id": 17333966}

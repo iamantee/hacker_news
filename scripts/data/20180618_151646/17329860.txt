@@ -1,0 +1,1 @@
+{"kids": [17330295, 17330168, 17330324, 17330674, 17330190, 17330234, 17331443], "descendants": 19, "url": "https://www.economist.com/books-and-arts/2018/06/14/does-inequality-cause-suicide-drug-abuse-and-mental-illness", "title": "Does inequality cause suicide, drug abuse and mental illness?", "by": "ceolin", "score": 35, "time": 1529188653, "type": "story", "id": 17329860}

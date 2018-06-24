@@ -1,0 +1,1 @@
+{"kids": [17312245], "descendants": 1, "url": "https://www.vox.com/platform/amp/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication", "title": "The Stanford Prison Experiment was massively influential. It was a fraud", "by": "yasp", "score": 11, "time": 1528983571, "type": "story", "id": 17311573}

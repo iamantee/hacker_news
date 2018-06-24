@@ -1,0 +1,1 @@
+{"kids": [17336409], "descendants": 1, "url": "https://bellard.org/otcc/", "title": "Obfuscated Tiny C Compiler (2002)", "by": "sndean", "score": 41, "time": 1529292753, "type": "story", "id": 17335856}

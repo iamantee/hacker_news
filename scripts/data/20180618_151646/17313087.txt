@@ -1,0 +1,1 @@
+{"kids": [17314520, 17313643, 17313783, 17314209, 17313495, 17313691, 17314989, 17313671, 17313378, 17314337, 17313853, 17316189, 17315931, 17314148], "descendants": 182, "url": "https://www.pagerduty.com/blog/elixir-at-pagerduty/", "title": "Elixir at PagerDuty", "by": "romanhn", "score": 336, "time": 1528995218, "type": "story", "id": 17313087}

@@ -1,0 +1,1 @@
+{"kids": [17318683, 17316899, 17316717], "descendants": 9, "url": "http://www.sacred-texts.com/aor/einstein/einsci.htm", "title": "Albert Einstein On: Religion and Science", "by": "tw1010", "score": 33, "time": 1529012443, "type": "story", "id": 17315651}

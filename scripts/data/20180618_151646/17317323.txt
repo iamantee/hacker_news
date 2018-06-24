@@ -1,0 +1,1 @@
+{"kids": [17319799, 17320552, 17320081, 17320272, 17319478, 17323511, 17322682, 17319614, 17319388], "descendants": 34, "url": "http://www.brianjford.com/a-ISR_Ford.pdf", "title": "On Intelligence in Cells: The Case for Whole Cell Biology (2009) [pdf]", "by": "resource0x", "score": 70, "time": 1529033127, "type": "story", "id": 17317323}

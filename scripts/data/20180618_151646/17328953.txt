@@ -1,0 +1,1 @@
+{"title": "Unlocking Intersection Types with \u2018var\u2019 in Java 10", "url": "https://blog.codefx.org/java/intersection-types-var/", "descendants": 0, "by": "based2", "score": 17, "time": 1529178066, "type": "story", "id": 17328953}

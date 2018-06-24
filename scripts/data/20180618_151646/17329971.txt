@@ -1,0 +1,1 @@
+{"kids": [17331080, 17330694, 17330655, 17332073, 17330064, 17330492, 17330756], "descendants": 10, "url": "https://insideevs.com/tesla-model-s-catches-fire-while-in-motion-not-caused-by-crash/", "title": "Tesla Model S Catches Fire While in Motion \u2013 Not Caused by Crash", "by": "bspn", "score": 22, "time": 1529190247, "type": "story", "id": 17329971}

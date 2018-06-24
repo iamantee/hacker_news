@@ -1,0 +1,1 @@
+{"kids": [17321439, 17321372, 17321394], "descendants": 21, "url": "https://arstechnica.com/information-technology/2018/06/decades-old-pgp-bug-allowed-hackers-to-spoof-just-about-anyones-signature/", "title": "Decades-old GnuPG bug allowed hackers to spoof just about anyone\u2019s signature", "by": "mikece", "score": 44, "time": 1529064343, "type": "story", "id": 17319120}
